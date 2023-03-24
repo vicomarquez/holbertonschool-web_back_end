@@ -1,0 +1,1 @@
+Here you will find ES6 promises info!
