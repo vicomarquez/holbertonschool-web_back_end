@@ -1,0 +1,1 @@
+here you will find ES6 classes info!
